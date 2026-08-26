@@ -9,7 +9,7 @@ Full-stack developer building real-world web apps with Java, Spring Boot, and mo
 - 🔭 Currently working on full-stack web applications with **Spring Boot + REST API**
 - 🌱 Exploring **system design** and **production deployment** best practices
 - 💡 Passionate about clean code, backend architecture, and practical projects
-- 📫 Reach me at: **[sakinanehra512@gmail.com]** | [linkedin.com/in/sakina-nehra-7a3384313]
+- 📫 Reach me at: **[sakinanehra512@gmail.com]** | [https://www.linkedin.com/in/sakina-nehra-7a3384313/]
 
 ---
 
